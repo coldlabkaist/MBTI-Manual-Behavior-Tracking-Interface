@@ -4,10 +4,10 @@ Manual Behavior Tracking Interface
 
 MBTI is an open source inferface helps manual tracking of animal behavior.
 
-### 24.08.02.
+## 24.08.02.
 MBTI 1.0.0 released
 
-Requirement
+### Requirement
 By default, all necessary files are organized in ymal. However, if there is a code-related error during the program execution,
 - Consider installing K lite codec
 - Consider installing LAVFilter
