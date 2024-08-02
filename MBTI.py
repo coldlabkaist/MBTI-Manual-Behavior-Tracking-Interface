@@ -273,7 +273,6 @@ class MainWindowClass(QDialog, form_class):
     # ------------------------------ key/bt control ------------------------------
 
     def recordcheck_changed(self):
-        # key pressed 상태에서 check가 True가 된 경우는 고려하지 않음
         if self.recordcheck.isChecked():
             self.start_record()
         else:
