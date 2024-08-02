@@ -12,6 +12,8 @@ By default, all necessary files are organized in ymal. However, if there is a co
 - Consider installing K lite codec
 - Consider installing LAVFilter
 
+
+
 Developed by JYJ 
 
 Copyright (c) 2024, coldlabkaist
