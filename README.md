@@ -75,4 +75,6 @@ Do not delete any files inside the extracted folder—the EXE needs the accompan
 
 Developed by YJ 
 
+MBTI is provided for research and academic purposes.
+
 Copyright (c) 2024, coldlabkaist
