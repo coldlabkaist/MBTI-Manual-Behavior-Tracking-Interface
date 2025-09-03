@@ -14,10 +14,27 @@ Count behaviors **with quick keystrokes**, map the exact keys you prefer, **and 
 
 - CSV export: Save per-frame labels and totals to CSV for analysis and auditing.
 
+
+
+### **Basic UI**
+
+<img width="1919" height="1019" alt="기본" src="https://github.com/user-attachments/assets/9dac7528-a2a7-4712-a1b9-3b31ed11f015" />
+
+### **Behavior Recording**
+
+<img width="1914" height="1032" alt="측정" src="https://github.com/user-attachments/assets/ec378029-ac01-4112-af27-6ff6474c6d7b" />
+
+### **Data Preview**
+
+<img width="1916" height="1016" alt="결과" src="https://github.com/user-attachments/assets/4e4d35e3-f1e4-4f50-95f0-e2da76151a11" />
+
+
+
 ## Update Log
 
 ### 25.09.03.
 MBTI 2.0.0 released!
+
 **Highlights**
 * **Smooth, reliable playback** — Snappy scrubbing and stable frame-accurate stepping for stress-free review.
 * **Easy key setup** — Map your preferred keys to behaviors in seconds; no hardcoded shortcuts.
