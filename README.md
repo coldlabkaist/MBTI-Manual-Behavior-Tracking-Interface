@@ -1,7 +1,7 @@
 # MBTI-Manual-Behavior-Tracking-Interface
 
 MBTI makes manual behavior tracking on video fast and simple. 
-Set a recording time limit and **ㅅhe player stops automatically**. 
+Set a recording time limit and **the player stops automatically**. 
 Count behaviors **with quick keystrokes**, map the exact keys you prefer, **and export CSV data** to review what happened and when it happened.
 
 ## Features
