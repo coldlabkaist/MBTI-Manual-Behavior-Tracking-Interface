@@ -18,15 +18,19 @@ Count behaviors **with quick keystrokes**, map the exact keys you prefer, **and 
 
 ### **Basic UI**
 
-<img width="1919" height="1019" alt="기본" src="https://github.com/user-attachments/assets/9dac7528-a2a7-4712-a1b9-3b31ed11f015" />
+<img width="1920" height="1032" alt="기본" src="https://github.com/user-attachments/assets/45b45a3a-a8a7-4ad5-bd52-5986a4c52a0a" />
 
 ### **Behavior Recording**
 
-<img width="1914" height="1032" alt="측정" src="https://github.com/user-attachments/assets/ec378029-ac01-4112-af27-6ff6474c6d7b" />
+<img width="1920" height="1032" alt="측정" src="https://github.com/user-attachments/assets/36488f90-8f9c-4844-b11c-641bdabcdb4c" />
 
 ### **Data Preview**
 
-<img width="1916" height="1016" alt="결과" src="https://github.com/user-attachments/assets/4e4d35e3-f1e4-4f50-95f0-e2da76151a11" />
+<img width="1920" height="1032" alt="결과" src="https://github.com/user-attachments/assets/3e1ae140-39f7-4ce2-85a6-ae92581a67ca" />
+
+### **Exported CSV**
+
+<img width="734" height="708" alt="csv" src="https://github.com/user-attachments/assets/e4b403b5-f78a-4759-ac69-2811ab626f5f" />
 
 
 
