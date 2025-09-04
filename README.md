@@ -92,6 +92,8 @@ Do not delete any files inside the extracted folder—the EXE needs the accompan
 
 3. Run MBTI.exe.
 
+Window defender can work because it is a file created by an unknown publisher, but if you press the View Details button to run it once, the window will not appear afterwards and can work conveniently.
+
 ---
 
 Developed by YJ 
