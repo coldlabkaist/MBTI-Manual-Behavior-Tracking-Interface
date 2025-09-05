@@ -68,7 +68,8 @@ EXE file based execution
 ## Installation
 ### Option A — Run from source (Conda, Fast Execution)
 Requirements: Anaconda / Miniconda installed.
-1. Download MBTI.py from GitHub to any folder you like.
+
+1. Download MBTI.py, mbti.yaml from GitHub to any folder you like.
 
 2. Open a terminal in that folder. Create the environment:
 
