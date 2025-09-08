@@ -86,7 +86,7 @@ python MBTI.py
 
 ### Option B — Run the prebuilt app (Windows, Easy Installation)
 
-1. Download MBTI.zip from [drive](https://drive.google.com/file/d/1u-juqdmCbPWnbS0cX2kwbmNmnjGgoRk6/view?usp=sharing) to any folder you like.
+1. Download MBTI.zip from [drive](https://drive.google.com/file/d/1GYmbJBYuUgZxJvPzaPTN7LokJ2U0z5VZ/view?usp=sharing) to any folder you like.
 
 2. Extract the ZIP in that folder.
 Do not delete any files inside the extracted folder—the EXE needs the accompanying files to run.
