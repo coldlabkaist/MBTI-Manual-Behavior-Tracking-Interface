@@ -74,7 +74,8 @@ Requirements: Anaconda / Miniconda installed.
 2. Open a terminal in that folder. Create the environment:
 
 ```
-conda env create -f mbti.yaml
+conda create -n mbti python=3.10 pip -y  
+pip install PyQt5==5.15.11 opencv-python==4.12.0.88  
 ```
 
 3. Activate & run:
